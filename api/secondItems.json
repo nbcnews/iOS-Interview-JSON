@@ -1,0 +1,52 @@
+{
+  "models": [
+    {
+      "i_d": "3457",
+      "po_si_tion": 3,
+      "te_xt": "World"
+    },
+    {
+      "i_d": "3453",
+      "po_si_tion": 2,
+      "te_xt": "sc.today.com/",
+      "thumbnail_URL": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2023_19/1993691/strawberry-shortcake-mc-2x1-230511.jpg"
+    },
+    {
+      "i_d": "3453",
+      "po_si_tion": 4,
+      "te_xt": "ios/stage/third/items.json"
+    },
+    {
+      "i_d": "3447",
+      "po_si_tion": 1,
+      "te_xt": "How ",
+      "thumbnail_URL": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/burrito-bowl-mc-230519-copy-0e697c.jpg"
+    },
+    {
+      "i_d": "53",
+      "po_si_tion": 1,
+      "te_xt": "I ",
+      "thumbnail_URL": "https://res.cloudinary.com/nbcnewsdigital-uat/image/upload/rockcms/2024-03/springseasonal-cc2ec8.png"
+    },
+    {
+      "i_d": "53",
+      "po_si_tion": 3,
+      "te_xt": "fine."
+    },
+    {
+      "i_d": "7",
+      "po_si_tion": 4,
+      "te_xt": "weather "
+    },
+    {
+      "i_d": "1234",
+      "po_si_tion": 3,
+      "te_xt": "is "
+    },
+    {
+      "i_d": "1234",
+      "po_si_tion": 19,
+      "te_xt": "today."
+    }
+  ]
+}
