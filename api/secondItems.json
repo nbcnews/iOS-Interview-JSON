@@ -3,7 +3,7 @@
     {
       "i_d": "3457",
       "po_si_tion": 3,
-      "te_xt": "World"
+      "te_xt": "Upgraded"
     },
     {
       "i_d": "3453",
@@ -19,34 +19,34 @@
     {
       "i_d": "3447",
       "po_si_tion": 1,
-      "te_xt": "How ",
+      "te_xt": "Power ",
       "thumbnail_URL": "https://media-cldnry.s-nbcnews.com/image/upload/c_fill,ar_16:9,w_600,g_auto/rockcms/2023-05/burrito-bowl-mc-230519-copy-0e697c.jpg"
     },
     {
       "i_d": "53",
       "po_si_tion": 1,
-      "te_xt": "I ",
+      "te_xt": "Spring ",
       "thumbnail_URL": "https://res.cloudinary.com/nbcnewsdigital-uat/image/upload/c_fill,ar_16:9,w_600,g_auto/rockcms/2024-03/springseasonal-cc2ec8.png"
     },
     {
       "i_d": "53",
       "po_si_tion": 3,
-      "te_xt": "fine."
+      "te_xt": "plate."
     },
     {
       "i_d": "7",
       "po_si_tion": 4,
-      "te_xt": "weather "
+      "te_xt": "carrots"
     },
     {
       "i_d": "1234",
       "po_si_tion": 3,
-      "te_xt": "is "
+      "te_xt": "Fresh "
     },
     {
       "i_d": "1234",
       "po_si_tion": 19,
-      "te_xt": "today."
+      "te_xt": "Light."
     }
   ]
 }
